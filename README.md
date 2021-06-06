@@ -13,7 +13,7 @@ A mobile chat application that helps you to store places' information.
   - Google Cloud Platform - Google Map API
   - SQLite - Data Storage
 
-## Some review images
+## Some preview images
 
 <img src="./dev_assets/review_splash_screen.png" width="230" height="460" /><img src="./dev_assets/review_placesList_screen.png" width="230" height="460" /><img src="./dev_assets/review_addPlace_screen.png" width="230" height="460" />
 
